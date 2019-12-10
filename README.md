@@ -1,8 +1,9 @@
 # r9-isbn-ci-starter
 ISBN exercise starter before adding CI hooks
 
-- Add Azure Badge 
-- Add link to Azure build project page
+[![Build Status](https://dev.azure.com/paul0287/CSD-CI-2019-12/_apis/build/status/paul-r9.CSD-CI-2019-12?branchName=master)](https://dev.azure.com/paul0287/CSD-CI-2019-12/_build/latest?definitionId=5&branchName=master)
+
+[Azure DevOps Project page](https://dev.azure.com/paul0287/CSD-CI-2019-12)
 
 # Tasks
 - ISBN10
